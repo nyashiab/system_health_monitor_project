@@ -4,8 +4,6 @@ _Python script that monitors CPU/memory/disk usage_
 
 ## Project Journal
 
-### Phase 1: The Python File Itself
-
 To begin this project I installed dependencies. I installed the process and system utilities library on VSCode. 
 
 This is what I did in the VSCode terminal before coding my project...
@@ -24,5 +22,4 @@ Here are my results...
 >[!NOTE]
 >Current Metrics: {'timestamp': '2025-06-24 18:54:56.484067', 'cpu_usage': 19.8, 'memory_usage': 49.8, 'disk_usage': 19.3}
 
-### Phase 2: Automation
 
